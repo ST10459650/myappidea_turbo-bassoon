@@ -1,4 +1,4 @@
-# 🏛️ Pillar Pocket — Budget Tracker App
+# 🏛️ Pillar Pocket — finances Management App
 
 > *"Nulum gratuitum prandium"* — There is no free lunch.
 
